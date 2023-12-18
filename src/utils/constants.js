@@ -22,3 +22,5 @@ export const SUPPORTED_lANGUAGES = [
   { id: "en", name: "English" },
   { id: "tamil", name: "Tamil" },
 ];
+
+export const OPENAI_KEY = "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";
